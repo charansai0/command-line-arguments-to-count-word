@@ -32,8 +32,8 @@ with open(sys.argv[1],'r')  as f:
     print("Number of words present in given file: " + str(count))
 
 ### OUTPUT:
-![OUTPUT]()
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/command-line-arguments-to-count-word/blob/main/12121.jpeg?RAW=TRUE)
+![OUTPUT](https://github.com/charansai0/command-line-arguments-to-count-word/blob/main/2121212.jpeg?RAW=TRUE)
 
 
 
