@@ -21,6 +21,7 @@ Display the word count from the contents of a file.
 End the program.
 
 ## PROGRAM:
+~~~
 Name:V.CHARAN SAI
 Reference Number:21003158
 import sys
@@ -30,7 +31,7 @@ with open(sys.argv[1],'r')  as f:
         words = line.split()
         count  += len(words) 
     print("Number of words present in given file: " + str(count))
-
+~~~
 ### OUTPUT:
 ![OUTPUT](https://github.com/charansai0/command-line-arguments-to-count-word/blob/main/12121.jpeg?RAW=TRUE)
 ![OUTPUT](https://github.com/charansai0/command-line-arguments-to-count-word/blob/main/2121212.jpeg?RAW=TRUE)
